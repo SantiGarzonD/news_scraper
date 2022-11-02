@@ -3,7 +3,7 @@
 
 Welcome! I made this program in order to practice WebScraping.
 It is a great skill with infinite applications.
-My program extracts 5 itmes:
+My program extracts 5 itmes from a local important news website (https://www.larepublica.co/):
 
 1. Home Page News Urls
 
