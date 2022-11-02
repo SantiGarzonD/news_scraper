@@ -1,4 +1,5 @@
-<h1>La Republica (news) Python Web Scraper<h1>
+# La Republica (news) Python Web Scraper
+
 
 Welcome! I made this program in order to practice WebScraping.
 It is a great skill with infinite applications.
