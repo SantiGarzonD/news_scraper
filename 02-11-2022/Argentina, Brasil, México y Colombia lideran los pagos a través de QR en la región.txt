@@ -1,0 +1,15 @@
+Argentina, Brasil, México y Colombia lideran los pagos a través de QR en la región
+
+
+
+Los pagos son cada vez más difundidos y la interoperabilidad es un requisito para que la industria logre cumplir las expectativas 
+
+El ecosistema de pagos digitales está creciendo con fuerza en América Latina, especialmente el pago con códigos QR, que busca facilitar todo el proceso en el comercio. Un actor clave en esto ha sido el Banco Central de Argentina, que ha estado impulsando un sistema digital interoperable, abierto y universal, que motivó que muchos actores se unieran al sistema. Esto también está siendo impulsado en Colombia, donde la banca local está trabajando y ultimando detalles para concretar un ecosistema de pagos con las mismas características de sus pares argentinos.
+De acuerdo con 
+ del Banco de la República a 2020 en Colombia, México, Chile, Argentina y Uruguay, Mercado Pago lidera los pagos con código QR, mientras que, en Brasil, PIX es la principal fuente. Según el documento, en Argentina se realizaron US$15.400 millones en pagos digitales, con una tasa de crecimiento de 28,7% y con 25 millones de usuarios.
+En Chile se realizaron pagos por un total de US$8.500 millones, lo cual generó un crecimiento de 19,8% con 11 millones de usuarios. En Colombia se han realizado US$8.200 millones con un crecimiento superior a 12% y con 22 millones de usuarios.
+Pero es Brasil el que más pagos digitales anuales ha ejecutado (US$51.400 millones) y el que mayor crecimiento ha mostrado (33,2%), con 105 millones de usuarios. Le sigue México con US$32.000 millones, un crecimiento de 18,8% y 51 millones de usuarios.
+En Colombia varios bancos comerciales ofrecen aplicaciones de 
+ mediante billeteras móviles, que permiten utilizar códigos QR. “No obstante, las billeteras móviles más relevantes operan bajo plataformas cerradas y con diseño de códigos QR exclusivos, que impiden la interoperabilidad”, detalló el BanRep en su Reporte de Sistema de Pago 2021.
+Ignacio Carballo, docente e Investigador en Crypto & Alternative Finance en Americas Market Intelligence de Estados Unidos, explicó que “Argentina destaca por el rol de Mercado Pago como empresa líder que impulsó el pago con códigos QR, imponiendo desde 2018 esta modalidad de pago de manera cerrada”.
+Sin embargo, los pagos móviles con código QR son cada vez más difundidos y la interoperabilidad es un requisito indispensable para que la industria logre cumplir las expectativas comerciales.

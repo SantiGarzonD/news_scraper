@@ -1,0 +1,31 @@
+Estos fueron los cambios principales de ponencia de la tributaria para nuevo debate
+
+Joaquín Mauricio López Bejarano
+
+El Gobierno las últimas tres semanas discutió con los congresistas ponentes y ahora se llegaría a un recaudo de casi $20 billones 
+
+La madrugada con la que empezó este primero de noviembre llegó con la ponencia final de la reforma tributaria del Gobierno de Gustavo Petro. Precisamente el proyecto que se terminó de cocinar las últimas tres semanas entre el Ministerio de Hacienda y los congresistas ponentes es pensado para que se pueda votar entre este miércoles y jueves en las plenarias del Senado y Cámara.
+Entonces ¿Cómo quedó la reforma tributaria?. Lo primero es que hay que recordar que en efecto, se eliminó cualquier tipo de impuesto a las pensiones. Así se dejarán de recaudar hasta $350.000 millones que habrían puesto los jubilados que recibían más de $12 millones al mes (1% de los retirados). Y con los demás ajustes a continuación mencionados, el recaudo ahora estaría entre $19 y $20 billones.
+Colocarían hasta $9 billones de la tributaria. 
+Los umbrales para el sector de extracción de petróleo crudo se definen de acuerdo con la distribución de los precios internacionales en términos reales, deflactados con el IPC de Estados Unidos, para los últimos 10 años, así:
+(El percentil a continuación quiere decir que cuando el precio esté por debajo del 30% del promedio de los últimos 10 años se cobra 0%. Cuando esté entre 30% y 45%, se cobra el 5% y así)
+• 0% de sobretasa: precio por debajo del percentil 30.
+• 5% de sobretasa: precio entre el percentil 30 y el 45.
+• 10% de sobretasa: precio entre el percentil 45 y el 60.
+• 15% de sobretasa: precio por encima del percentil 60.
+Por su parte, los umbrales para el sector de extracción de carbón se definen de acuerdo con la distribución de los precios internacionales en términos reales, deflactados con el IPC de Estados Unidos, para los últimos 10 años, así:
+• 0% de sobretasa: precio por debajo del percentil 45.
+• 5% de sobretasa: precio entre el percentil 45 y el 60.
+• 10% de sobretasa: precio por encima del percentil 60
+Igualmente con el tema de regalías: 
+, pero con modificaciones en la valoración de las regalías pagadas en especie por parte de las empresas.
+
+Aunque el Ministerio de Hacienda ha dicho que los patrimonios que empezarán a pagar impuestos son los de más de $3.000 millones, según la fórmula del articulado, se indica que es a partir de los 72.000 UVT, es decir, $2.736 millones con la UVT actual ($38.004). Desde este punto de partida y hasta los $4.636 millones (122.000 UVT) pagarán una tarifa de 0,5%.
+La segunda tarifa es para los patrimonios de entre $4.636 millones y hasta $9.082 millones, que tendrán una carga fiscal de 1%. Y en los últimos debates se incluyó un tercer nivel para los patrimonios de más de $9.082 millones que tendrán una tarifa marginal de 1,50%.
+
+El acuerdo fue que la primera vez que se evada una obligación, se pagará normalmente. La segunda reincidencia incurrirá en multa y para la tercera pagará cárcel.
+Una de las características de la reforma era que todos los ingresos se trataran por igual. Esto quería decir que los dividendos entrarían a la tabla de tarifas marginales de renta que van de 0% a 39%, según los ingresos. Pero el MinHacienda acordó con los ponentes que ya no harán parte de esta tabla, sino que tendrán un descuento de 19%, con una tasa máxima de 20% para mantener la progresividad.
+De ese modo, el pequeño accionistas no pagaría impuestos adicionales sobre dividendos. Y el tope llegará solo hasta 20%, para los de altos ingresos.
+Al igual que los dividendos, el MinHacienda proponía que las ganancias ocasionales también se trataran como ingresos ordinarios, pero luego reconoció que este es el único ingreso que no es igual al resto. Por eso modificó la propuesta para que mantenga su cédula independiente y, en cambio, tenga una tarifa única de 15% para el caso de herencias, donaciones y enajenaciones de activos (que pagan una tarifa actual de 10%) y de 35% para las rifas y loterías (paga 20% en la actualidad).
+Incluso, el jefe de la cartera económica anunció que en este caso se mejorarán algunos beneficios como el de la venta de viviendas que estarán exentas del impuesto si el dinero obtenido se utiliza para comprar otra vivienda.
+El Gobierno planteaba inicialmente eliminar el subsidio a la gasolina que tienen las poblaciones de las zonas de frontera. Estas regiones están excluidas de pagar el IVA en el combustible, además de otras exenciones como aranceles y el impuesto nacional a la gasolina y el Acpm. Pero el MinHacienda rectificó y mantuvo estos beneficios para esas poblaciones.

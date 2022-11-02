@@ -1,0 +1,12 @@
+Lanzan billetera MonetPay a través de la solución Banking as a Service de Bancolombia
+
+Carolina Salazar Sierra
+
+En una primera etapa, los usuarios podrán solicitar y pagar adelantos de dinero en tiempo real, utilizar códigos QR de Bancolombia
+
+A través de la solución de Banking as a Service (BaaS) de Bancolombia, Monet anuncia el lanzamiento de MonetPay, una billetera digital con la que se busca ofrecer a los usuarios una variedad de productos financieros con el respaldo de este banco colombiano.
+Los usuarios podrán acceder a su billetera desde la App Monet. Allí, en una primera etapa podrán solicitar y pagar adelantos de dinero en tiempo real, utilizar códigos QR de Bancolombia para hacer compras en comercios y consultar sus saldos en segundos.
+En el futuro, se podrán realizar pagos de servicios, acceder a créditos de libre destino y programar transferencias, entre otros servicios.
+“Esta alianza persigue la finalidad de construir ecosistemas económicos favorables que permitan la inclusión financiera responsable en Colombia. Las dos instituciones han comprendido que sus objetivos están alineados, y que juntas pueden generar un mayor impacto positivo en la sociedad”, 
+.
+Mientras que Cristina Arrastía, vicepresidenta de Negocios de Bancolombia, expresa que “la mejor forma de interactuar con las personas se da a partir del entendimiento integral de sus necesidades. Para continuar evolucionando en la manera como hacemos banca hoy extendemos nuestras soluciones de Banking as a Service (BaaS) para acompañar a fintech, pymes y empresas en la transformación de su propuesta de valor, integrando servicios financieros en sus experiencias de una forma rápida, fácil, segura y oportuna, como hoy lo hace Monet”.

@@ -1,0 +1,25 @@
+Los pagos con códigos QR se expanden por toda América Latina, Argentina destaca
+
+Los principales exponentes son Mercado Pago y PIX, que junto con otros superan los US$100 millones mensuales en transacciones
+
+El ecosistema de pagos digitales está creciendo con fuerza en
+especialmente el 
+ con códigos QR, que busca facilitar todo el proceso en el comercio.
+Un actor
+ en esto ha sido el Banco Central de Argentina, que ha estado impulsando un sistema digital interoperable, abierto y universal, que motivó que muchos actores se unieran al sistema.
+Esto también está siendo impulsado en Colombia, donde la banca local está trabajando y ultimando detalles para concretar un ecosistema de pagos con las mismas características de sus pares argentinos.
+Ignacio Carballo, docente e Investigador, Crypto & Alternative Finance en Americas Market Intelligence de Estados Unidos, explicó que “Argentina destaca por el rol de Mercado Pago como empresa líder que impulsó el pago con códigos QR, imponiendo desde 2018 esta modalidad de pago de manera cerrada y haciéndose en Argentina con 1,3 millones de pequeños comerciantes aceptando el pago con su código QR”.
+Esto se confirma con las cifras indicadas por Mercado Pago, puesto que en el segundo semestre de 2022 se hicieron 112,8 millones de pagos con el sistema QR en América Latina, cifra que implicó un crecimiento de 148% frente a igual periodo de 2021.
+En tanto, en Argentina, ya pagan con códigos QR más de 5 millones de usuarios mensualmente, además, “ya cobraron con QR desde su lanzamiento 1,3 millones de usuarios (comercios, emprendedores, profesionales, oficios, etc) y en el país más de 1,3 millones de comercios cobraron alguna vez con QR”, explicaron desde la compañía.
+Desde la FinTech Ualá destacaron que la interoperabilidad “beneficia tanto a comerciantes y emprendedores, como a consumidores. Vender con QR implica más ganancia para el comerciante, ya que las comisiones son significativamente más bajas. Mientras que para el consumidor, es más rápido: escaneas y listo”.
+Agrega que el uso de su servicio está fuertemente vinculado con consumos de adolescentes y jóvenes adultos: la mitad de las transacciones es realizada por menores de 24 años, explican.
+A su juicio, el QR es utilizado como un complemento al pago con tarjeta:  "85% mantuvo o incrementó sus transacciones con tarjeta prepago”.
+El experto añade que al ser Mercado Pago una compañía pionera con este sistema de pagos, generó una posición de privilegio, tanto que limitó el acceso a otros jugadores. Ante esto, en 2020 la autoridad monetaria local inició la discusión de avanzar en la interoperabilidad de los QR. Esto implicaba que “si Mercado Pago tenía 1,3 millones de comercios donde sólo se podía pagar con su billetera, el resto de los jugadores no tenía incentivos a usar ese método. Entonces, en julio de 2020 se confirmó el avance de transferencias 3.0 y en octubre de 2021 se implementó la infraestructura de pagos inmediatos en el país”.
+Carballo fue enfático al señalar que una arista que la distingue del sistema Pix en Brasil o de lo que hace el gigante del retail Falabella con Fpay como propuesta de infraestructura de pagos inmediatos, “es que trae el código interoperable al país”.
+Este paso del Banco Central de Argentina permitió que la mayoría de los bancos empezaran a emitir su código QR porque ya se puede pagar sobre los códigos de Mercado Pago.
+Este avance está permitiendo que países como Colombia y Chile realicen sus mayores esfuerzos en la implementación de este tipo de pagos. El primero de estos países pronto tendrá un sistema con interoperabilidad, mientras Chile lo está aplicando en el transporte público.
+De acuerdo con cifras del Banco de la República a 2020 en Colombia, México, Chile, Argentina y Uruguay, MercadoPago lidera los pagos con código QR, mientras que en Brasil PIX es la principal fuente. Según el documento, en Argentina se realizaron US$15.400 millones en pagos digitales, con una tasa de crecimiento de 28,7% y con 25 millones de usuarios.
+En tanto, en Chile se realizaron pagos por un total de US$8.500 millones, lo cual generó un crecimiento de 19,8%, con 11 millones de usuarios. En Colombia se han realizado US$8.200 millones, con un crecimiento superior a 12% y con 22 millones de usuarios.
+Pero es Brasil el que más pagos digitales anuales ha ejecutado (US$51.400 millones) y el que mayor crecimiento ha mostrado (33,2%), con 105 millones de usuarios. Le sigue México con US$32.000 millones, un crecimiento de 18,8% y 51 millones de usuarios.
+En Colombia varios bancos comerciales ofrecen aplicaciones de pagos mediante billeteras móviles, que permiten utilizar códigos QR. “No obstante, las billeteras móviles más relevantes operan bajo plataformas cerradas y con diseño de códigos QR exclusivos, que impiden la interoperabilidad”, detalló el BanRep en su Reporte de Sistema de Pago 2021.
+Sin embargo, los pagos móviles con código QR son cada vez más difundidos, y “la interoperabilidad es un requisito indispensable para que la industria logre cumplir las expectativas consumidor/comerciante mediante el uso del QR como iniciador del proceso de pagos”.

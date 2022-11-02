@@ -1,0 +1,8 @@
+name: larepublica_scraper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - lxml
+  - requests
+  - pandas
