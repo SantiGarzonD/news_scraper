@@ -20,3 +20,6 @@ Hope it is helpful to you.
 
 # Code and Resources Used
 *conda* ```conda env create -f environment.yaml```
+ * lxml
+ * requests
+ * pandas
