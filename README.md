@@ -19,4 +19,4 @@ I wanna thank Platzi for teaching me this and having this program as a final pro
 Hope it is helpful to you.
 
 # Code and Resources Used
-*conda* ´´´conda env create -f environment.yaml´´´´
+*conda* ```conda env create -f environment.yaml```
