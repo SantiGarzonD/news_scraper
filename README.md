@@ -17,3 +17,6 @@ And from those Urls we extract the other 4 items:
 I wanna thank Platzi for teaching me this and having this program as a final project from the Basic WebScraping course.
 
 Hope it is helpful to you.
+
+# Code and Resources Used
+*conda* ´´´conda env create -f environment.yaml´´´´
